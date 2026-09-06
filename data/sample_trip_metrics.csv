@@ -1,0 +1,25 @@
+trip_id,trip_name,location,latitude,longitude,trip_date,weather_risk_index,sea_condition_index,boat_condition_score,distance_from_shore_km,communication_coverage_pct,fuel_availability_pct,engine_condition_score,lifejacket_readiness_pct,crew_experience_years
+T001,Dawn Run,Murud,18.30,72.96,2026-08-20,45,52,88,7,82,92,86,96,8
+T002,Coastal Net,Dapoli,17.75,73.19,2026-08-20,58,65,80,11,70,84,82,91,6
+T003,Harbor Catch,Alibag,18.64,72.88,2026-08-21,32,36,92,5,94,95,90,98,10
+T004,Open Water,Harishchandrapur,16.99,73.31,2026-08-21,76,84,68,18,54,72,66,82,4
+T005,Monsoon Scout,Ratnagiri,16.99,73.31,2026-08-22,71,79,73,15,62,78,70,88,5
+T006,Nearshore Line,Murud,18.30,72.96,2026-08-22,40,45,90,6,88,90,92,97,9
+T007,Reef Edge,Dapoli,17.75,73.19,2026-08-23,64,72,77,13,68,81,79,90,7
+T008,Early Market,Alibag,18.64,72.88,2026-08-23,27,33,95,4,96,97,95,99,12
+T009,Long Haul,Harishchandrapur,16.99,73.31,2026-08-24,82,88,61,22,48,68,60,79,3
+T010,Bay Watch,Ratnagiri,16.99,73.31,2026-08-24,52,56,84,9,76,86,84,93,8
+T011,Channel Drift,Murud,18.30,72.96,2026-08-25,47,50,87,8,80,90,88,95,7
+T012,Offshore Cast,Dapoli,17.75,73.19,2026-08-25,69,74,72,16,60,76,68,85,5
+T013,Safe Return,Alibag,18.64,72.88,2026-08-26,22,29,96,3,98,98,97,99,14
+T014,Harbor Loop,Ratnagiri,16.99,73.31,2026-08-26,39,44,91,6,90,93,91,97,11
+T015,Storm Watch,Harishchandrapur,16.99,73.31,2026-08-27,88,92,58,24,42,61,55,75,2
+T016,Creek Net,Murud,18.30,72.96,2026-08-27,51,57,83,10,73,88,80,92,6
+T017,Sunset Run,Dapoli,17.75,73.19,2026-08-28,44,49,89,7,84,94,89,96,9
+T018,Outer Channel,Harishchandrapur,16.99,73.31,2026-08-28,73,81,66,19,52,70,64,81,4
+T019,Family Shore,Alibag,18.64,72.88,2026-08-29,30,34,94,4,95,96,94,99,13
+T020,Harbor Reserve,Ratnagiri,16.99,73.31,2026-08-29,36,41,90,6,92,92,90,97,10
+T021,Blue Current,Murud,18.30,72.96,2026-08-30,59,63,78,12,69,83,78,90,6
+T022,Deep Cast,Dapoli,17.75,73.19,2026-08-30,79,86,63,20,50,67,62,80,3
+T023,Calm Bay,Alibag,18.64,72.88,2026-08-31,18,25,98,3,99,99,98,100,15
+T024,West Point,Ratnagiri,16.99,73.31,2026-08-31,57,61,81,11,72,87,83,92,7
